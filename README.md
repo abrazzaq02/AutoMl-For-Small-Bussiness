@@ -176,16 +176,3 @@ yaml
 Copy code
 
 ---
-
-## Optional Add-Ons (You Can Add)
-
-### **Badges Example**
-Add at the top after the title:
-
-```md
-[![Python](https://img.shields.io/badge/Python-3.7%2B-3776AB)](https://www.python.org/)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-blue)](https://scikit-learn.org/)
-
-
-
-ChatGPT can make mistakes. Check important info.
