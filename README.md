@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Project Overview
+
 
 **AutoML for Small Business** is a complete Python-based Machine Learning pipeline designed to help small businesses automatically preprocess data, select models, train, evaluate, and generate predictions without extensive manual intervention.
 
