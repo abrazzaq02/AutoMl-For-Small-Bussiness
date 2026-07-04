@@ -1,4 +1,4 @@
-# AutoML for Small Business
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.7%2B-3776AB)](https://www.python.org/)
